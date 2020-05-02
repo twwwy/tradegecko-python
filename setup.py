@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'tradegecko-python',
-    version = '0.0.7',
+    version = '0.0.8',
     description = 'Python wrapper for TradeGecko REST API',
     author = 'Drew Kowalik, Chris Clark',
     author_email = 'team@epantry.com',
